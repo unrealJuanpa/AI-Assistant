@@ -9,6 +9,8 @@ AI-Assistant is a project that consists of a multifunctional AI assistant. This 
 - **Text-to-speech synthesis**: Uses Silero models to convert text to speech.
 - **Laanguage**: Currently, the project is designed for the Spanish language, but it can be easily adapted to other languages. In future versions, the assistant will automatically switch languages.
 
+![AI Assistant](juan.png)
+
 ## Requirements
 
 - **Graphics card**: An RTX 3060 mobile 6GB graphics card is recommended for optimal performance and real-time conversation capability.
